@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"ayu",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Color Highlight",
+		"Emmet",
+		"GitGutter",
+		"HyperClick",
+		"Jade",
+		"JsPrettier",
+		"LoremIpsum",
+		"Package Control",
+		"Pretty JSON",
+		"SCSS",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-contrib-pug-lint",
+		"SublimeLinter-contrib-stylint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-json"
+	]
+}

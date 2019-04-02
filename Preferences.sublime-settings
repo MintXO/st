@@ -1,0 +1,30 @@
+{
+	"always_show_minimap_viewport": true,
+	"atomic_save": false,
+	"binary_file_patterns":
+	[
+		"*/node_modules/*",
+		"*/build/*",
+		"*/vendor/*",
+		"*/.next/*",
+		"*/public/*",
+		"*/.cache/*",
+		".eslintcache"
+	],
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Fira Code",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets_angle": true,
+	"mini_diff": false,
+	"show_definitions": false,
+	"tab_size": 2,
+	"theme": "ayu-mirage.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
