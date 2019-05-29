@@ -1,4 +1,12 @@
 {
+	"added_words":
+	[
+		"streetwear",
+		"blog",
+		"screenshot",
+		"Google",
+		"keyserver"
+	],
 	"always_show_minimap_viewport": true,
 	"atomic_save": false,
 	"binary_file_patterns":
@@ -22,6 +30,10 @@
 	],
 	"match_brackets_angle": true,
 	"mini_diff": false,
+	"rulers":
+	[
+		80
+	],
 	"show_definitions": false,
 	"tab_size": 2,
 	"theme": "ayu-mirage.sublime-theme",

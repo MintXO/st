@@ -15,11 +15,14 @@
 		"Emmet",
 		"GitGutter",
 		"HyperClick",
+		"Indent XML",
 		"Jade",
 		"JsPrettier",
 		"LoremIpsum",
+		"Naomi",
 		"Package Control",
 		"Pretty JSON",
+		"Pug",
 		"SCSS",
 		"SideBarEnhancements",
 		"Stylus",
@@ -27,6 +30,7 @@
 		"SublimeLinter-contrib-pug-lint",
 		"SublimeLinter-contrib-stylint",
 		"SublimeLinter-eslint",
-		"SublimeLinter-json"
+		"SublimeLinter-json",
+		"TOML"
 	]
 }
